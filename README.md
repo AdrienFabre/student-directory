@@ -1,9 +1,8 @@
-# student-directory #
+
+### Makers software engineering bootcamp exercise - using csv file
+
+
+### student-directory 
 
 The student directory script allows you to manage the list of students enrolled at Villains Academy.
 
-## How to use ##
-
-'''shell <br />
-ruby directory.rb <br />
-'''
